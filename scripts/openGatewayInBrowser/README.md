@@ -1,13 +1,13 @@
 # 🧭 open_gateway.sh
 
-Prosty skrypt Bash, który automatycznie:
-1. Pobiera lokalny adres IP,
-2. Wykrywa bramę domyślną (gateway),
-3. Otwiera panel routera w przeglądarce.
+A simple Bash script that automatically:
+1. Retrieves your local IP address,
+2. Detects the default gateway,
+3. Launches the router's web panel in your browser.
 
 ---
 
-## 💻 Użycie
+## 💻 Usage
 ```bash
 chmod +x open_gateway.sh
 ./open_gateway.sh
